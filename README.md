@@ -40,4 +40,6 @@
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=seanbeirnes&count_private=true&show_icons=true&hide=contribs)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=seanbeirnes)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanbeirnes)
