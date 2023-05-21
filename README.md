@@ -34,3 +34,10 @@
 
 
 [seanbeirnes.com](https://www.seanbeirnes.com/ "seanbeirnes.com")
+
+<hr>
+
+
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=seanbeirnes&count_private=true&show_icons=true&hide=contribs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanbeirnes)
