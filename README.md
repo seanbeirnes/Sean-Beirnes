@@ -20,6 +20,7 @@
   <img alt="CSS" title="CSS" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img alt="Git" title="Git" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
   <img alt="Sass" title="Sass" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img alt="Tailwind CSS" title="Tailwind CSS" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />          
 </p>                    
 
 ## Certifications
