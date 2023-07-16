@@ -8,7 +8,7 @@
 
 ## Projects
 * Created a custom tabs widget following WCAG accessibility guidelines to replace the deprecated jQuery widget used in Canvas LMS.
-* Automated that scanning of Canvas LMS course items to find outdated content using Python scripts.
+* Automated the scanning of Canvas LMS course items to find outdated content using Python scripts.
 * Created tools to generate responsive embed code for YouTube and VoiceThread iframes using HTML, CSS, and Javascript.
 
 ## Skills and Tools
