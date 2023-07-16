@@ -21,6 +21,13 @@
   <img alt="Sass" title="Sass" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </p>                    
 
+## Certifications
+<p>
+  <a title="Google IT Automation Certificate" href="https://www.credly.com/badges/81d390a1-21ce-486f-8fe5-35a4be18e3e6">
+    <img alt="Google IT Automation Certificate" height="128" src="https://images.credly.com/size/680x680/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png" />
+  </a>
+  
+</p>
 
 ## Contact
 <p>
