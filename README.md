@@ -14,7 +14,7 @@
 ## Skills and Tools
 <p>
   <img alt="C Sharp" title="C#" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img alt="Dot Net" title="Microsoft .Net" height="64" src="https://dotnet.microsoft.com/icons/brand-dotnet.png" />
+  <img alt="Dot Net" title="Microsoft .Net" height="64" src="https://dotnet.microsoft.com/favicon.ico" />
   <img alt="Python" title="Python" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />   
   <img alt="JavaScript" title="JavaScript" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img alt="TypeScript" title="TypeScript" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />      
