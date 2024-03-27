@@ -6,7 +6,7 @@
 * 🎹 Musician
 
 ## Projects
-* iFrameWizard - A React app to generate responsive iframe embed code for YouTube and VoiceThread.
+* [iFrameWizard](https://github.com/seanbeirnes/iFrame_Wizard) - A React app to generate responsive iframe embed code for YouTube and VoiceThread.
 * Canvas Sniffer - A Python app that automates the scanning of Canvas LMS course items to find outdated content.
 * Created a custom tabs widget following WCAG accessibility guidelines to replace the deprecated jQuery widget used in Canvas LMS.
 
