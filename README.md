@@ -1,4 +1,4 @@
-# Hi! I'm Sean 👋🏻, and I'm an
+# Hi! I'm Sean 👋🏻, and I'm a
 * 👨‍💻 Software Engineer
 * 🖥️ LMS Administrator
 * ♿ Web Accessibility Guru
