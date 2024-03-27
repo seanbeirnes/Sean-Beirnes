@@ -1,15 +1,15 @@
 # Hi! I'm Sean 👋🏻, and I'm an
-* 👨‍💻 IT Automation Specialist with Python and Bash Scripting
-* 🖥️ Learning Management System Administrator
-* 🌐 Web Developer and Designer
+* 👨‍💻 Software Engineer
+* 🖥️ LMS Administrator
 * ♿ Web Accessibility Guru
 * 🎓 Instructional Designer
 * 🎹 Musician
 
 ## Projects
+* iFrameWizard - A React app to generate responsive iframe embed code for YouTube and VoiceThread.
+* Canvas Sniffer - A Python app that automates the scanning of Canvas LMS course items to find outdated content.
 * Created a custom tabs widget following WCAG accessibility guidelines to replace the deprecated jQuery widget used in Canvas LMS.
-* Automated the scanning of Canvas LMS course items to find outdated content using Python scripts.
-* Created tools to generate responsive embed code for YouTube and VoiceThread iframes using HTML, CSS, and Javascript.
+
 
 ## Skills and Tools
 <p>
@@ -19,7 +19,7 @@
   <img alt="JavaScript" title="JavaScript" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img alt="TypeScript" title="TypeScript" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />      
   <img alt="React" title="React" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
-  <img alt="Tailwind CSS" title="Tailwind CSS" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />    
+  <img alt="Tailwind CSS" title="Tailwind CSS" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />    
   <img alt="Sass" title="Sass" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
   <img alt="Node.js" title="Node.js" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
   <img alt="Git" title="Git" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -41,19 +41,11 @@
   <a title="LinkedIn" href="https://www.linkedin.com/in/sean-beirnes/">
     <img height="32" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg">
   </a> 
-  <a title="Twitter" href="https://twitter.com/seanbeirnes?lang=en">
-    <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg">
-  </a>
 </p>
 
 
 [seanbeirnes.com](https://www.seanbeirnes.com/ "seanbeirnes.com")
 
 <hr>
-
-
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=seanbeirnes&count_private=true&show_icons=true&hide=contribs)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=seanbeirnes)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanbeirnes)
