@@ -29,18 +29,7 @@
   
 </p>
 
-## Contact
-<p>
-  <a title="LinkedIn" href="https://www.linkedin.com/in/sean-beirnes/">
-    <img height="32" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg">
-  </a> 
-</p>
-
-
-[seanbeirnes.com](https://www.seanbeirnes.com/ "seanbeirnes.com")
-
 <hr>
 
 ![Seans's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanbeirnes\&show_icons=true\&show=prs_merged&rank_icon=github)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanbeirnes&hide_progress=true)
