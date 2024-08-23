@@ -41,4 +41,6 @@
 
 <hr>
 
+![Seans's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanbeirnes\&show_icons=true\&show=prs_merged&rank_icon=github)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanbeirnes&hide_progress=true)
