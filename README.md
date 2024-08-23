@@ -1,15 +1,12 @@
 # Hi! I'm Sean 👋🏻, and I'm a
-* 👨‍💻 Software Engineer
+* 👨🏻‍💻 Software Engineer
 * 🖥️ LMS Administrator
-* ♿ Web Accessibility Guru
 * 🎓 Instructional Designer
 * 🎹 Musician
 
 ## Projects
-* [iFrameWizard](https://github.com/seanbeirnes/iFrame_Wizard) - A React app to generate responsive iframe embed code for YouTube and VoiceThread.
-* Canvas Sniffer - A Python app that automates the scanning of Canvas LMS course items to find outdated content.
-* Created a custom tabs widget following WCAG accessibility guidelines to replace the deprecated jQuery widget used in Canvas LMS.
-
+* [LMS Dash](https://chromewebstore.google.com/detail/lms-dash/dphccimingcbmlkehpflgkningeomenp) - Chrome Extension for managing Canvas LMS.
+* [iFrameWizard](https://github.com/seanbeirnes/iFrame_Wizard) - React app to generate responsive iframe embed code for YouTube and VoiceThread.
 
 ## Skills and Tools
 <p>
@@ -48,4 +45,4 @@
 
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanbeirnes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanbeirnes&hide_progress=true)
