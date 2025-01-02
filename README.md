@@ -5,6 +5,8 @@ I’m bridging the worlds of education and technology to make life easier for ed
 * 📚 **My experience:** LMS wizard, instructional designer, and music teacher.
 * 🛠️ **What I’m Building**: Open-source tools to automate and enhance learning workflows.
 
+Even Canvas LMS uses my code (<a href="https://github.com/instructure/canvas-lms/commit/a2fd827d58bb0530cbb845230b2374f4f9161ce5">Commit a2fd827</a>).
+
 ## My Current Tech Stack
 <p align="center">
   <img alt="Golang icon" title="Golang" height="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
